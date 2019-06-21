@@ -1,0 +1,16 @@
+{
+    "name": "mongocrud",
+    "version": "1.0.0",
+    "keywords": [
+        "util",
+        "functional",
+        "server",
+        "client",
+        "browser"
+    ],
+    "author": "Vijay.Knowillence",
+    "contributors": [],
+    "dependencies": {
+        "multiparty": "^4.2.1"
+    }
+}
